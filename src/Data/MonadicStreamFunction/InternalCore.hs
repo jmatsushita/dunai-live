@@ -1,3 +1,5 @@
+{-# LANGUAGE RankNTypes #-}
+
 module Data.MonadicStreamFunction.InternalCore where
 
 -- transformers
